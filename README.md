@@ -15,7 +15,7 @@ Facile: addition et soustraction seulement. Pas de résultat négatif aux soustr
 
 Moyen: addition, soustraction, multiplication. Résultats négatifs et positifs aux soustractions. nombres compris entre 1 et 35 pour addition/soustraction et entre 2 et 12 pour multiplication.
 
-Difficile: addition,soustraction multiplication, division. Résultats négatifs et positifs aux soustractions. nombres compris entre 1 et 49 pour addition/soustraction/division et entre 3 et 14 pour multiplication. Divisions entières uniquement.
+Difficile: addition,soustraction multiplication, division. Résultats négatifs et positifs aux soustractions. nombres compris entre 1 et 49 pour addition/soustraction/division et entre 3 et 14 pour multiplication. Divisions entières sans reste uniquement.
 
 Générateur de réponses :
 
