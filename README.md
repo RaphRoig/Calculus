@@ -18,6 +18,7 @@ Moyen: addition, soustraction, multiplication. Résultats négatifs et positifs 
 Difficile: addition,soustraction multiplication, division. Résultats négatifs et positifs aux soustractions. nombres compris entre 1 et 49 pour addition/soustraction/division et entre 3 et 14 pour multiplication. Divisions entières uniquement.
 
 Générateur de réponses :
+
 on crée les choix avec les fct easyChoice, mediumChoice, hardChoice.
 Elles prennent la réponse à un calcul en parametre. 
 
