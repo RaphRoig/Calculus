@@ -1,6 +1,7 @@
 # Calculus
 
-Générateur de questions : 
+Générateur de questions :
+
 la classe Calculation possède plusieurs attributs dont une difficulté.
 la classe Game possède en attribut une liste de Calculation.
 Lorsque que l'on crée un instance de Game, on spécifie la difficulté (1:facile, 2:moyen, 3:difficile) et le nombre de calculs.
